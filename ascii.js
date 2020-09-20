@@ -1,4 +1,4 @@
-async function chars(min = 1, max = 99999999) {
+function chars(min = 1, max = 99999999) {
 	this.min = min
 	this.max = max
 	
