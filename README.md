@@ -7,21 +7,24 @@
 
 
 ##### Exemplo de uso:
-Retorna 3 ascii aleatorio de code 7 a 13:
+- Retorna 3 ascii aleatorio de code 7 a 13:
 ```js
 console.log(new chars(7, 13).gerar(3))
 ```
 
 
-Retorna 1 ascii aleatorio:
+- Retorna 8 ascii de codigo 11003:
+```js
+let code = 11003
+let contia = 8
+new chars(code).gerar(contia)
+```
+- Retorna 1 ascii aleatorio:
 ```js
 let ascii = new chars().gerar()
 console.log(ascii)
 ```
-
-
-
-Retorna 2000 ascii aleatorios:
+- Retorna 2000 ascii aleatorios:
 ```js
 return new chars().gerar(2000)
 ```
