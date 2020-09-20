@@ -17,7 +17,7 @@ console.log(new chars(7, 13).gerar(3))
 ```js
 let code = 11003
 let contia = 8
-new chars(code, code).gerar(contia)
+new chars(code).gerar(contia)
 ```
 - Retorna 1 ascii aleatorio:
 ```js
