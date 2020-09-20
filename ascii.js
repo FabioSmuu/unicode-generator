@@ -1,4 +1,4 @@
-function chars(min = 1, max = 99999999) {
+function chars(min = 1, max = min) {
 	this.min = min
 	this.max = max
 	
