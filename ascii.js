@@ -14,5 +14,3 @@ function chars(min = 1, max = 99999999) {
 		return code	
 	}
 }
-
-console.log(new chars().gerar(15))
