@@ -5,6 +5,8 @@
 > **AVISO:** Não me responsabiliso pelo uso indevido desta simples função, pois a criei para estudo de pacotes em ambientes controlados.
 
 
+Caso não saiba onde é usar ascii hoje em dia, aqui esta um json contendo os emojis originais do discord: [emojis.sjon](/emojis.sjon)
+
 
 ##### Exemplo de uso:
 - Retorna 3 ascii aleatorio de code 7 a 13:
