@@ -6,7 +6,7 @@
 
 
 Caso não saiba onde é usar ascii hoje em dia, aqui esta um json contendo os emojis originais do discord: [emojis.sjon](/emojis.sjon)
-
+Me dei o trabalho de também separar o nome de todos os emojis individuais: [nomes.txt](/nomes.txt)
 
 ##### Exemplo de uso:
 - Retorna 3 ascii aleatorio de code 7 a 13:
