@@ -5,6 +5,7 @@
 > **AVISO:** Este projeto foi criado somente para estudo da geração de unicode e não para uso prático!
 
 ### Arquivos
+- [code.js](/code.js): Código do gerador.
 - [emoji.json](/emoji.json): Lista da estrutura de emojis do discord.
 - [nomes.txt](/nomes.txt): Lista dos nomes dos emojis.
 - [unicode.txt](/unicode.txt): Lista dos emojis unicode.
